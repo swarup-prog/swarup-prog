@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">&nbsp;<img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-FLUTTER-03dbfc?logo=flutter&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-DART-945DD6?logo=dart&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fce803">&nbsp;<img src = "https://img.shields.io/badge/-JAVA-3776AB?logo=java&logoColor=fff">&nbsp;<img src = "https://img.shields.io/badge/-JAVASCRIPT-3776AB?logo=python&logoColor=fce803">
+<img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">&nbsp;<img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-FLUTTER-03dbfc?logo=flutter&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-DART-945DD6?logo=dart&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fce803">&nbsp;<img src = "https://img.shields.io/badge/-JAVA-3776AB?logo=java&logoColor=fff">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=swarup-prog&count_private=true&show_icons=true&theme=radical)
 
